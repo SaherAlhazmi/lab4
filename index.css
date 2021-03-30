@@ -1,0 +1,47 @@
+You should include the links in the HTML file and add the rules to your CSS file:
+body {
+font-family: "Palatino Linotype", sans-serif;
+fount-size:16px;
+line-height:1.5;
+background: #eef; 
+text-align:justify;
+margin:5px;
+}
+h1 {
+font-family: "Merriweather", serif;
+fount-size:48px;
+background-image: url('C:\Users\AL-sa\OneDrive\سطح المكتب\internet\gitrepo\lab4\img\css_header.png');
+color:green;
+text-align:center;
+text-transform:uppercase;
+
+} 
+
+img{
+	width:12%;
+	float:right;
+	clear:both;
+}
+
+article, aside, footer, header, menu, nav, section {
+display: block;
+
+}
+
+article,section{
+	margin:20px;
+}
+image,nav,text , aside{
+	padding:2;
+	
+}
+nav{
+	float:left;
+}
+
+
+
+
+
+	
+
